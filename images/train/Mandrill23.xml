@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Mandrill23.jpg</filename>
+	<path>C:/Tensorflow1/models/research/object_detection/images/train/Mandrill23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mandrill</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>18</ymin>
+			<xmax>258</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

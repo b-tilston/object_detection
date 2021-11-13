@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Gelada16.jpg</filename>
+	<path>C:/Tensorflow1/models/research/object_detection/images/train/Gelada16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>994</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gelada</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>249</ymin>
+			<xmax>713</xmax>
+			<ymax>882</ymax>
+		</bndbox>
+	</object>
+</annotation>

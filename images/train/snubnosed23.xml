@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>snubnosed23.jpg</filename>
+	<path>C:/Tensorflow1/models/research/object_detection/images/train/snubnosed23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GoldenSnub-Nosed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>44</ymin>
+			<xmax>294</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chimpanzee</folder>
+	<filename>Chimpanzee4.jpg</filename>
+	<path>Z:/Monkey Pics/Chimpanzee/Chimpanzee4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>787</width>
+		<height>932</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chimpanzee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>21</ymin>
+			<xmax>759</xmax>
+			<ymax>886</ymax>
+		</bndbox>
+	</object>
+</annotation>
