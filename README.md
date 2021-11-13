@@ -35,4 +35,4 @@ https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Trai
 
 I would recommend following that repo over the need arise to attempt to replicate this project or a project of a similar vein
 
-The repo is also missing some models etc for now - will attempt to commit them later
+The repo is missing model checkpoints and ssd_inception_v2.pb
