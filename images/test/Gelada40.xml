@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Gelada40.jpg</filename>
+	<path>C:/Tensorflow1/models/research/object_detection/images/test/Gelada40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>566</width>
+		<height>851</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gelada</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>72</ymin>
+			<xmax>552</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+</annotation>

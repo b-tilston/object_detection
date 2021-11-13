@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>pygmymarmoset20.jpg</filename>
+	<path>C:/Tensorflow1/models/research/object_detection/images/train/pygmymarmoset20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PygmyMarmoset</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>98</ymin>
+			<xmax>596</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

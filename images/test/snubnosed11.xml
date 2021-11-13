@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>snubnosed11.jpg</filename>
+	<path>C:/Tensorflow1/models/research/object_detection/images/test/snubnosed11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>980</width>
+		<height>735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GoldenSnub-Nosed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>57</ymin>
+			<xmax>855</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

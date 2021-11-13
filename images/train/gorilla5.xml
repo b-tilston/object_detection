@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>gorilla5.jpg</filename>
+	<path>C:/Tensorflow1/models/research/object_detection/images/train/gorilla5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1061</width>
+		<height>740</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gorilla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>78</ymin>
+			<xmax>981</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>

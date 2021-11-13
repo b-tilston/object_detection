@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Chimpanzee54.jpg</filename>
+	<path>C:/Tensorflow1/models/research/object_detection/images/train/Chimpanzee54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>828</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chimpanzee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>26</ymin>
+			<xmax>462</xmax>
+			<ymax>703</ymax>
+		</bndbox>
+	</object>
+</annotation>

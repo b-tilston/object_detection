@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>orangutan51.jpg</filename>
+	<path>C:/Tensorflow1/models/research/object_detection/images/train/orangutan51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Orangutan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>151</ymin>
+			<xmax>382</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
